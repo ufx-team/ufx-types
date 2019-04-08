@@ -2,8 +2,8 @@
   "name": "ufx-types",
   "version": "0.1.0",
   "repository": {
-    "type": "git",
-    "url": "git@github.com:ufx-team/ufx-types.git"
+    "type": "https",
+    "url": "https://github.com/ufx-team/ufx-types.git"
   },
   "description": "Type definitions for UFX.",
   "keywords": [
@@ -11,10 +11,7 @@
     "types",
     "typescript"
   ],
-  "author": {
-    "name": "lmtdit",
-    "email": "lmtdit@gmail.com"
-  },
+  "author": "ufx-team <ufex.team@gmail.com>",
   "license": "BSD-3-Clause",
   "dependencies": {
 
@@ -24,9 +21,6 @@
     "@types/fs-extra": "^5.0.5",
     "@types/inquirer": "^6.0.0",
     "@types/minimist": "^1.2.0"
-  },
-  "publishConfig": {
-    "registry": "https://registry.npmjs.com"
   },
   "changeLog": {}
 }

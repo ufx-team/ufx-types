@@ -1,3 +1,3 @@
 # ufx-types
 
-The UFX types for TypeScript.
+Type definitions for UFX.
